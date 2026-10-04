@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 340" font-family="Inter, Arial, sans-serif">
+  <rect width="440" height="340" fill="#ecebe7"/>
+  <g stroke="#d8d7d2"><path d="M0 34H440M0 68H440M0 102H440M0 136H440M0 170H440M0 204H440M0 238H440M0 272H440M0 306H440"/></g>
+  <g fill="#fafaf8" stroke="#111" stroke-width="2.2">
+    <rect x="60" y="40" width="110" height="40" rx="3"/><rect x="110" y="110" width="110" height="40" rx="3"/>
+    <rect x="160" y="180" width="110" height="40" rx="3"/><rect x="210" y="250" width="120" height="40" rx="3" stroke="#e0352b"/>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="2" stroke-linecap="round">
+    <path d="M115 80 V95 H140 V106"/><path d="M165 150 V165 H190 V176"/><path d="M215 220 V235 H240 V246"/>
+  </g>
+  <g font-size="15" font-weight="600" letter-spacing="2" text-anchor="middle">
+    <text x="115" y="65" fill="#111">IDEA</text><text x="165" y="135" fill="#111">PLAN</text>
+    <text x="215" y="205" fill="#111">ACTION</text><text x="270" y="275" fill="#e0352b">RESULT</text>
+  </g>
+</svg>
