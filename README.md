@@ -6,7 +6,6 @@
 - `src/build.py` — все тексты и шаблоны страниц. После правки: `python3 src/build.py` пересобирает все страницы.
 - `assets/style.css`, `assets/main.js` — стили и анимации (лист протокола, печать, маркер, счётчики, печатающийся адрес сайта).
 - `assets/og.jpg` — картинка-превью для ссылок.
-- `bozze/` — три исходных направления (A, B, C).
 
 ## Страницы
 `/` · `/sobstvennikam/` · `/diagnostika/` · `/apgreid/` · `/videoreklama/` · `/saity/` · `/blog/` · `/kontakty/` (+ `/kontakty/spasibo/`)
